@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <skinrepo>
-    <name>shady_KISS</name>
+    <name>shady_KISSpb</name>
     <type>git</type>
     <url>https://github.com/pbiering/shady_KISSpb.git</url>
     <author>tomas</author>
